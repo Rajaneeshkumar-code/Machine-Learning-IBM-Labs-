@@ -119,7 +119,7 @@ This project is licensed under the **MIT License**.
 
 **Rajaneesh Kumar**
 
-* GitHub: [https://github.com/Rajaneeshkumar](https://github.com/Rajaneeshkumar)
+* GitHub: [https://github.com/Rajaneeshkumar-code](https://github.com/Rajaneeshkumar-code)
 * LinkedIn: [https://linkedin.com/in/rajaneesh-kumar-0607a3273](https://linkedin.com/in/rajaneesh-kumar-0607a3273)
 
 ---
